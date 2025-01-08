@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-style: initial;
+}
+
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+    float: left;
+    background-color: aqua;
+    width: 100%;
+    display: inline-block;
+} 
+ul{background-color: aqua;
+    list-style: none;
+   
+   
+}
+ul.li{
+    display: inline;
+    position: relative;
+  
+}
+ul li ul.dropdown{
+    display:  block;
+}
+ul li ul.dropdown{
+   width: 100%;
+   display: none;
+   
+   position:absolute;}
+ul.dropdown{
+    display: none;
+} 
