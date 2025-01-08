@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#sam{
+    height: 40px;
+    background-color: black;
+    color: white;
+    margin-top: 0px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding-top: 5px;
+    font-size: large;
+    position: sticky;
+    position: relative;
+    top: 10px;
+}
+#sa{
+    color: orange;
+    padding-left: 10px;
+}
+.s{
+    margin-left: 200px;
+
+}
+.s:hover{
+    background-color: lightgrey;
+}
+input{
+    margin-left: 200px;
+    position: relative;
+    top: 10px;
+}
+button{
+    background-color: orange;
+    position: relative;
+    top: 10px;
+}
+strong{
+    margin-left: 200px;
+    font-weight: 200px;
+    font-size: 20px;
+}
+#na{
+    margin-left: 140px;
+}
+option{
+    background-color: lightcyan;
+}
